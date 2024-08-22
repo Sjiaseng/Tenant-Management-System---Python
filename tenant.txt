@@ -1,0 +1,3 @@
+John Doe|22|johndoe@gmail.com|60124936684|002833392953|12/03/2000|Kuala Lumpur|666 Jalan T2/1|32100|Malaysia|Teacher|Alex|5000|Desa ParkCity|1300|09/09/2022
+John Farees|20|johndfara@gmail.com|60126919393|772833342952|12/03/2000|Kuala Lumpur|71 Jalan Tun HS Less 6/41|35587|Malaysia|Engineer|Phillip|9000|Desa ParkCity|1200|09/09/2022
+John Retinam|36|johndfara@gmail.com|60154943608|198604105532|10/04/1986|Kuala Lumpur|85 Lorong Birch 5/37Q|96371|Malaysia|Camera Repairer|Kenderaan|4000|Bandar Sunway Condo|1200|19/09/2022
