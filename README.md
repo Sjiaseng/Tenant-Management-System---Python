@@ -22,3 +22,15 @@ This is a Tenant Management System Project Developed Using **<u>Python Programmi
 4. CRUD on Tenants Information
 5. Searching Function
 6. Modify Settings
+
+## Setup
+
+Step 1:
+```bash
+git clone https://github.com/Sjiaseng/Tenant-Management-System---Python.git
+```
+
+Step 2:
+```bash
+python main.py
+```
