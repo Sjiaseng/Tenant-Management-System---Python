@@ -32,5 +32,11 @@ git clone https://github.com/Sjiaseng/Tenant-Management-System---Python.git
 
 Step 2:
 ```bash
+cd Tenant-Management-System---Python
+```
+
+Step 3: [Ensure You Have Python Environment Setup, Python Version >=3.10 ]
+```bash
 python main.py
 ```
+
